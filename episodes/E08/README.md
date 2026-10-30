@@ -1,0 +1,7 @@
+# E08: NumPy Aggregations and Random Simulation
+Video: https://youtu.be/dLxzKRXBckY
+
+Every file comes as a `.py` script (cells marked with `# %%`) and as a Jupyter notebook (`.ipynb`) with the real outputs. Python 3.13, NumPy 2.5.
+
+- `e07_solution.py` / `e07_solution.ipynb`: the solution of the E07 exercise: a 5 × 3 array (5 students × 3 exams), the 2nd student's row (`exams[1]`), the 3rd exam's column (`exams[:, 2]`), and centring each exam column by its own mean with broadcasting (`exams - exams.mean(axis=0)`).
+- `e08_aggregations_simulation.py` / `e08_aggregations_simulation.ipynb`: every cell of the episode with its real output: `sum`, `mean`, `min`, `max` and `np.median` (and how one typo moves the mean but not the median), `std` and `var`, aggregating along `axis=0` and `axis=1`, `argmax` and `argmin`, `np.percentile` and `np.quantile` on the `exam_score` column of `students.csv`, `cumsum`, `np.unique(..., return_counts=True)`, missing values as `np.nan` in `study_hours_per_week` with `np.isnan`, `np.nanmean`, `np.nanmedian` and `np.nanmax`, a seeded generator `np.random.default_rng(seed)` with `integers`, `random`, `normal` and `choice`, and three simulations: 10,000 coin flips and their running share of heads, 10,000 rolls of two dice, and 1,000 random samples of 50 students. Put `students.csv` (from `data/`) next to it. Run the cells in order: each simulation starts from a generator with a fixed seed, so you get exactly the numbers shown in the video.
