@@ -1,0 +1,5 @@
+Sat 2
+Sun 3.5
+Mon 4.3
+Tue 1.5
+Wed 2.5
