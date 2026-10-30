@@ -1,0 +1,6 @@
+import pandas as pd
+
+df = pd.read_csv("students.csv")
+df.shape
+# %%
+df.head()
