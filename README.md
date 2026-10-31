@@ -6,6 +6,20 @@ A free course by **Infinity Systems** on YouTube, made for **computer science st
 - A new episode every day.
 - Website: https://www.infinitysys.org
 
+## Episodes
+| # | Episode | Video | Code |
+|---|---|---|---|
+| E01 | What Is Data Science | https://youtu.be/g5jMB3q0VAk | [`episodes/E01`](episodes/E01) |
+| E02 | Setting Up Python, Jupyter and Colab | https://youtu.be/QbUAjlUAg84 | [`episodes/E02`](episodes/E02) |
+| E03 | Python Variables, Types, Lists and Dictionaries | https://youtu.be/kZuEcJhIdcA | [`episodes/E03`](episodes/E03) |
+| E04 | Python Loops, Conditions and Functions | https://youtu.be/MN39wEHRl0o | [`episodes/E04`](episodes/E04) |
+| E05 | Reading Data Files: CSV and JSON | https://youtu.be/ctgqrIEx7gw | [`episodes/E05`](episodes/E05) |
+| E06 | NumPy Arrays | https://youtu.be/sRSDN2E7Yvk | [`episodes/E06`](episodes/E06) |
+| E07 | NumPy Indexing, Slicing and Broadcasting | https://youtu.be/psk9r4OgcRA | [`episodes/E07`](episodes/E07) |
+| E08 | NumPy Aggregations and Random Simulation | https://youtu.be/dLxzKRXBckY | [`episodes/E08`](episodes/E08) |
+| E09 | Linear Algebra for Data Science | https://youtu.be/9zlXUvJjyfI | [`episodes/E09`](episodes/E09) |
+| E10 | pandas Series and DataFrames | https://youtu.be/hNQJ0ddCgDA | [`episodes/E10`](episodes/E10) |
+
 ## What's here
 | Folder | What it holds |
 |---|---|

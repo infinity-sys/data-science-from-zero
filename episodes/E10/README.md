@@ -1,5 +1,5 @@
 # E10: pandas Series and DataFrames
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/hNQJ0ddCgDA
 
 Every file comes as a `.py` script (cells marked with `# %%`) and as a Jupyter notebook (`.ipynb`) with the real outputs. Python 3.10, pandas 2.3.3, NumPy 2.2.6 (see `versions.txt`). In pandas 3, text columns show the dtype `str` instead of `object`.
 
