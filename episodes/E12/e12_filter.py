@@ -17,8 +17,10 @@ cs = students[is_cs]
 print(cs.shape)
 print(cs["department"].unique())
 # %%
-both = students[(students["department"] == "CS") & (students["passed"] == "yes")]
-either = students[(students["department"] == "CS") | (students["passed"] == "yes")]
+both = students[(students["department"] == "CS")
+                & (students["passed"] == "yes")]
+either = students[(students["department"] == "CS")
+                  | (students["passed"] == "yes")]
 print(len(both), len(either))
 # %%
 small = students[students["department"].isin(["Arts", "Medicine"])]
