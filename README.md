@@ -19,6 +19,7 @@ A free course by **Infinity Systems** on YouTube, made for **computer science st
 | E08 | NumPy Aggregations and Random Simulation | https://youtu.be/dLxzKRXBckY | [`episodes/E08`](episodes/E08) |
 | E09 | Linear Algebra for Data Science | https://youtu.be/9zlXUvJjyfI | [`episodes/E09`](episodes/E09) |
 | E10 | pandas Series and DataFrames | https://youtu.be/hNQJ0ddCgDA | [`episodes/E10`](episodes/E10) |
+| E11 | Loading and Inspecting a Real Dataset | https://youtu.be/Z5ySU7tbVoE (public Wed 4 Nov 2026) | [`episodes/E11`](episodes/E11) |
 
 ## What's here
 | Folder | What it holds |
