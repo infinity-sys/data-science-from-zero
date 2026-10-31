@@ -1,0 +1,7 @@
+# E10: pandas Series and DataFrames
+Video: VIDEO_LINK_PLACEHOLDER
+
+Every file comes as a `.py` script (cells marked with `# %%`) and as a Jupyter notebook (`.ipynb`) with the real outputs. Python 3.10, pandas 2.3.3, NumPy 2.2.6 (see `versions.txt`). In pandas 3, text columns show the dtype `str` instead of `object`.
+
+- `e09_solution.py` / `e09_solution.ipynb`: the solution of the E09 exercise: study hours and exam scores of the first five students as vectors, the products by hand (sum 2928.1) and with `np.dot` (2928.0999999999995, a binary floating-point effect, like `0.1 + 0.2`), `round(..., 2)` for display (2928.1), and the 5 × 2 matrix of hours and attendance times `[2, 0.5]` (`[70.6 31.5 53.2 62.1 61.35]`).
+- `e10_pandas.py` / `e10_pandas.ipynb`: every cell of the episode with its real output: a `pd.Series` with a default and a custom index, lookup by label, vectorized maths, `.mean()`, `.to_numpy()` and boolean masks, alignment by label (missing labels give `NaN`), a `pd.DataFrame` from a dictionary, `shape`, `columns`, `index` and `dtypes`, one column (a Series) and a list of columns (a DataFrame), a new column `points_per_hour`, `sort_values(..., ascending=False)`, `loc` and `iloc`, and `pd.read_csv("students.csv")` with `shape` (503, 10), `head`, the mean exam score (59.81) and `value_counts()` of the departments. Put `students.csv` (from `data/`) next to it and run the cells in order.
