@@ -3,7 +3,7 @@
 A free course by **Infinity Systems** on YouTube, made for **computer science students** and **anyone curious about data**. No background is needed: we start from zero.
 
 - Playlist: https://www.youtube.com/playlist?list=PLDy7xS_6LZus
-- A new episode every day.
+- New episodes every Wednesday and Saturday at 20:00 Cairo time.
 - Website: https://www.infinitysys.org
 
 ## Episodes
@@ -20,6 +20,11 @@ A free course by **Infinity Systems** on YouTube, made for **computer science st
 | E09 | Linear Algebra for Data Science | https://youtu.be/9zlXUvJjyfI | [`episodes/E09`](episodes/E09) |
 | E10 | pandas Series and DataFrames | https://youtu.be/hNQJ0ddCgDA | [`episodes/E10`](episodes/E10) |
 | E11 | Loading and Inspecting a Real Dataset | https://youtu.be/Z5ySU7tbVoE (public Wed 4 Nov 2026) | [`episodes/E11`](episodes/E11) |
+
+## pandas versions
+E01 to E09 ran on pandas 3.x (E02 installs the latest pandas). E10, E11 and E12 were recorded with pandas 2.3.3 (see each `versions.txt`).
+On pandas 3, text columns show the dtype `str` where those episodes show `object` (for example in `df.info()` and `df.dtypes`).
+Every number is the same on both versions; only that dtype label differs.
 
 ## What's here
 | Folder | What it holds |
