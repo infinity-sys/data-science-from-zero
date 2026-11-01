@@ -1,5 +1,5 @@
 # E12: Selecting and Filtering Data
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/nJzoXRaOF7U (premieres Sat 7 Nov 2026, 20:00 Cairo)
 
 Every file comes as a `.py` script (cells marked with `# %%`) and as a Jupyter notebook (`.ipynb`) with the real outputs. Python 3.10, pandas 2.3.3, NumPy 2.2.6 (see `versions.txt`).
 

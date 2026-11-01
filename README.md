@@ -20,6 +20,7 @@ A free course by **Infinity Systems** on YouTube, made for **computer science st
 | E09 | Linear Algebra for Data Science | https://youtu.be/9zlXUvJjyfI | [`episodes/E09`](episodes/E09) |
 | E10 | pandas Series and DataFrames | https://youtu.be/hNQJ0ddCgDA | [`episodes/E10`](episodes/E10) |
 | E11 | Loading and Inspecting a Real Dataset | https://youtu.be/Z5ySU7tbVoE (public Wed 4 Nov 2026) | [`episodes/E11`](episodes/E11) |
+| E12 | Selecting and Filtering Data | https://youtu.be/nJzoXRaOF7U (premieres Sat 7 Nov 2026, 20:00 Cairo) | [`episodes/E12`](episodes/E12) |
 
 ## pandas versions
 E01 to E09 ran on pandas 3.x (E02 installs the latest pandas). E10, E11 and E12 were recorded with pandas 2.3.3 (see each `versions.txt`).
