@@ -1,5 +1,5 @@
 # E13: Cleaning Data: Missing Values, Duplicates and Types
-Video: (link added after upload; premieres Wed 11 Nov 2026, 20:00 Cairo)
+Video: https://youtu.be/alRTtbabQGo (premieres Wed 11 Nov 2026, 20:00 Cairo)
 
 Every file comes as a `.py` script (cells marked with `# %%`) and as a Jupyter notebook (`.ipynb`) with the real outputs. Python 3.13.5, pandas 2.3.3, NumPy 2.2.6 (see `versions.txt`).
 
