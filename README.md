@@ -22,6 +22,7 @@ A free course by **Infinity Systems** on YouTube, made for **computer science st
 | E11 | Loading and Inspecting a Real Dataset | https://youtu.be/Z5ySU7tbVoE (public Wed 4 Nov 2026) | [`episodes/E11`](episodes/E11) |
 | E12 | Selecting and Filtering Data | https://youtu.be/nJzoXRaOF7U (premieres Sat 7 Nov 2026, 20:00 Cairo) | [`episodes/E12`](episodes/E12) |
 | E13 | Cleaning Data | https://youtu.be/alRTtbabQGo (premieres Wed 11 Nov 2026, 20:00 Cairo) | [`episodes/E13`](episodes/E13) |
+| E14 | Transforming Data | https://youtu.be/fbmOkAHAb1I (premieres Sat 14 Nov 2026, 20:00 Cairo) | [`episodes/E14`](episodes/E14) |
 
 ## pandas versions
 E01 to E09 ran on pandas 3.x (E02 installs the latest pandas). E10, E11 and E12 were recorded with pandas 2.3.3 (see each `versions.txt`).
